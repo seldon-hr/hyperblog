@@ -44,3 +44,7 @@ body{
     background: white;
     padding: 1em;
 }
+
+#footer{
+    color: rgba(0, 0, 0, 0.5);
+}
