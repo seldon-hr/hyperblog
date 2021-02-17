@@ -11,5 +11,6 @@ Un blog incre&iacute;ble para el[ curso de Git y Github](https://platzi.com/curs
 * Las personalidades m&uacute;ltiples de Freddy
 * Características de esta línea que es la primera.
 * Usos y mútliples opciones de configuración
+* En la perifería es donde tenemos que regresar.
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Dise-ado para el ejemplo. Si llegas acÃ¡ NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
